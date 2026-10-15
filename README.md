@@ -1,46 +1,31 @@
-<h1 align="center">Hi, I'm Luimya 👋</h1>
-
-<p align="center">Welcome to my little corner of GitHub.</p>
-
-<p align="center">
-  <a href="https://github.com/Luimya?tab=repositories">Repositories</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Luimya?tab=stars">Stars</a>
-</p>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luimya&amp;theme=tokyonight" width="820" alt="Luimya's GitHub contribution overview" />
+  <img src="assets/px-header.svg" width="100%" alt="Player 1: Luimya — LV.07 Toolsmith. Game art tools and Unreal Engine. Press start." />
 </div>
 
-## Languages
+<img src="assets/px-section-inventory.svg" width="100%" alt="Inventory" />
+<img src="assets/px-inventory.svg" width="100%" alt="C#, Python, Unreal Engine, HTML, Chrome extensions" />
 
-<div align="center">
-  <img src="assets/languages-by-repo.svg" width="400" alt="Top languages by repository, shown as horizontal bars" />
-  <img src="assets/languages-by-commit.svg" width="400" alt="Top languages by commit, shown as horizontal bars" />
-</div>
+<img src="assets/px-section-quests.svg" width="100%" alt="Quest log" />
+<a href="https://github.com/Luimya/RefVault"><img src="assets/px-quest-refvault.svg" width="100%" alt="RefVault — local-first reference image manager and analysis tool for game artists" /></a>
+<a href="https://github.com/Luimya/UAssetVersionInspector"><img src="assets/px-quest-uasset.svg" width="100%" alt="UAssetVersionInspector — check which Unreal Engine version created a downloaded UE file" /></a>
 
-## Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luimya&amp;theme=tokyonight" width="400" alt="GitHub activity statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luimya&amp;theme=tokyonight&amp;utcOffset=9" width="400" alt="Commits by time of day, UTC+9" />
-</div>
-
-## Visits
-
-<div align="center">
-  <img src="https://count.getloli.com/@Luimya-github?theme=moebooru" width="400" alt="Profile visit counter" />
-</div>
-
-## Contribution Snake
+<img src="assets/px-section-snake.svg" width="100%" alt="Mini game: snake" />
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
-    <img src="assets/github-contribution-grid-snake.svg" width="820" alt="Luimya's contribution snake animation" />
+    <img src="assets/github-contribution-grid-snake.svg" width="100%" alt="Luimya's contribution snake animation" />
   </picture>
 </div>
 
-<!-- Layout inspired by https://github.com/1cyberlangke1/1cyberlangke1 -->
-<!-- Components: vn7n24fzkq/github-profile-summary-cards, journey-ad/Moe-Counter, Platane/snk -->
+<img src="assets/px-section-visits.svg" width="100%" alt="Visitors" />
+
+<p align="center">
+  <img src="https://count.getloli.com/@Luimya-github?theme=moebooru" alt="Profile visit counter" />
+</p>
+
+<img src="assets/px-footer.svg" width="100%" alt="Thanks for playing!" />
+
+<!-- Design: “Pixel” — retro RPG / arcade HUD -->
+<!-- Components: journey-ad/Moe-Counter, Platane/snk -->
